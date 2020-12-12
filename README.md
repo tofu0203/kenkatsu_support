@@ -1,0 +1,2 @@
+# kenkatsu_support
+これはジョークアプリです．
